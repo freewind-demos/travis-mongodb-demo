@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^4.5.9"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
   }
 }
